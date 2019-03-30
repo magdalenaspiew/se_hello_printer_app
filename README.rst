@@ -100,3 +100,5 @@ Materiały
 =========
 
 - https://virtualenvwrapper.readthedocs.io/en/latest/
+
+Dodany monitoring 
