@@ -109,5 +109,6 @@ Badge z TraviCl
     :target: https://travis-ci.org/magdalenaspiew/se_hello_printer_app
 
 Badge z StatusCake
+
 .. image:: https://app.statuscake.com/button/index.php?Track=UeKCkJDwVc&Days=1&Design=1
     :target: https://www.app.statuscake.com
