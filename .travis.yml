@@ -8,4 +8,9 @@ install:
 script:
   - make lint
   - make test
-  - make docker_build
+- make docker_build
+deploy:
+	provider: heroku
+	app: nameless-retreat-24253
+	api_key: ${HEROKU_API_KEY}
+
