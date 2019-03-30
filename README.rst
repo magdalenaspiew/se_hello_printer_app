@@ -110,4 +110,4 @@ Badge z TraviCl
 
 Badge z StatusCake
 .. image:: https://app.statuscake.com/button/index.php?Track=UeKCkJDwVc&Days=1&Design=1
-    :target: https://www.statuscake.com" title="Website Uptime Monitoring
+    :target: https://www.app.statuscake.com
