@@ -109,5 +109,5 @@ Badge z TraviCl
     :target: https://travis-ci.org/magdalenaspiew/se_hello_printer_app
 
 Badge z StatusCake
-
-<a href="https://www.statuscake.com" title="Website Uptime Monitoring"><img src="https://app.statuscake.com/button/index.php?Track=UeKCkJDwVc&Days=1&Design=1" /></a>
+.. image:: https://app.statuscake.com/button/index.php?Track=UeKCkJDwVc&Days=1&Design=1
+    :target: https://www.statuscake.com
